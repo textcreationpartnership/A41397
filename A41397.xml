@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and true newes from Bedford declaring the pollitick and profitable exploit of Collonell Mountague comming with his forces from Cambridge, and obtaining entrance into that towne under the denomination of being forces commanded by Collonel Hurrey and Sir Lewis Dives for the king, by which meanes he was well entertained, and under pretence seized many horses, and took divers sums of money, which was before collected for the use of the king, but now imployed  for the benefit of the Parliament and state; in a letter from Bedford to London, by a gentleman there residing. Together with another letter from the Lion, a ship in service for the Parliament now at Hull, declaring the good service performed by the sea-men on land, against the Earl of Newcastles forces, driving them from their siege took nine peeces of ordnance, whereof one was called the Queenes pocket pistoll, received from Denmark, anno Dom. 1643. This is licensed and entred into the Hall booke according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41397</idno>
+            <idno type="STC">Wing G1036A</idno>
+            <idno type="STC">ESTC R215824</idno>
+            <idno type="EEBO-CITATION">99827591</idno>
+            <idno type="PROQUEST">99827591</idno>
+            <idno type="VID">32013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and true newes from Bedford declaring the pollitick and profitable exploit of Collonell Mountague comming with his forces from Cambridge, and obtaining entrance into that towne under the denomination of being forces commanded by Collonel Hurrey and Sir Lewis Dives for the king, by which meanes he was well entertained, and under pretence seized many horses, and took divers sums of money, which was before collected for the use of the king, but now imployed  for the benefit of the Parliament and state; in a letter from Bedford to London, by a gentleman there residing. Together with another letter from the Lion, a ship in service for the Parliament now at Hull, declaring the good service performed by the sea-men on land, against the Earl of Newcastles forces, driving them from their siege took nine peeces of ordnance, whereof one was called the Queenes pocket pistoll, received from Denmark, anno Dom. 1643. This is licensed and entred into the Hall booke according to order.</title>
+                  <author>T. V.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Astine. A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first letter is unsigned; the second is dated and signed: Yarmouth, October 14. 1643. T.V.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32013:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>Good and true Newes from Bedford: Declaring the pollitick and profitable exploit of Collonell <hi>Mountague</hi> comming with his Forces from Cam<g ref="char:EOLhyphen"/>bridge, and obtaining entrance into that Towne under the de<g ref="char:EOLhyphen"/>nomination of being Forces commanded by Collonel <hi>Hurrey</hi> and Sir <hi>Lewis Dives</hi> for the King, by which meanes he was well entertained, and under pretence ſeized many Horſes, and tooke divers ſums of money, which was before collected for the uſe of the King, but now imployed for the benefit of the Parliament and State; In a Letter ſent from <hi>Bedford</hi> to London<g ref="char:punc">▪</g> by a Gentleman there reſiding.</p>
+            <p>Together with another Letter from the LION, a Ship in ſervice for the Parliamen<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſident now at Hull, de<g ref="char:EOLhyphen"/>claring the good ſervice performed by the Sea-men on Land, againſt the Eearle of Newcaſtles Forces, dri<g ref="char:EOLhyphen"/>ving them from their ſiege tooke nine Peeces of Ordnance, whereof one was called the Queenes pocket Piſtoll, received from Denmark, <hi>Anno Dom.</hi> 1643.</p>
+            <p>This is licenſed and entred into the Hall Booke according to Order.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>R. Aſtine. A. Coe.</hi> 1643.</p>
+            <pb facs="tcp:32013:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:32013:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32013:3"/>
+            <!-- PDF PAGE 69 -->
+            <pb facs="tcp:32013:3"/>
+            <!-- PDF PAGE 69 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have had ſome pretty paſſa<g ref="char:EOLhyphen"/>ges here which I thought good to make you acquainted with. On Thurſday and Friday laſt, being the 26. and 27. of this inſtant Moneth, Collonel <hi>Mountague</hi> went forth into the Enemies quarters with onely 2. Companies of Dragoneers, and 1. troope of horſe going to <hi>Bedford,</hi> for we heard they had ſome ſmall force there: but when we came there, they were all gone from thence. But take notice by the way, that we went as a partie of the Kings horſe, and were made very welcome in the Town; And having heard before that the Commiſsion of Array had given them charge to raiſe Money and Horſe for the Kings uſe, and they being as ready as may be to put it in practiſe: we ask<g ref="char:EOLhyphen"/>ed them where the honeſt men lived that
+<pb facs="tcp:32013:4"/>
+               <!-- PDF PAGE 70 -->was to gather the Money: being directed, we came to the houſe and asked for the men, who ſaid, VVe had very ſmall time as yet to do any thing; but what they had we ſhould have it very willingly, wiſhing they had more to do the King good, and ſo had we too, the ſumme being but 7. li. and 4. good horſe: VVe taking them thankfully, and tel<g ref="char:EOLhyphen"/>ling them we would viſit them for more ſhortly: Do, and welcome, ſay they, and ſo being prayed for by them, we left them and marcht towards S. <hi>Needs,</hi> where we had more of the ſame ſport, taking more horſe that was kept for the ſame purpoſe alſo. And another pretty paſſage had almoſt forgot<g ref="char:EOLhyphen"/>ten, at a little Tovvn by the way we had 5. horſe that vvas kept for the ſame purpoſe al<g ref="char:EOLhyphen"/>ſo, and while they were ſearching the houſe I had command to ſtand at the back ſide of an orchard to ſee that no body ran out at the back ſide, and whileſt we ſtood there, there came a man down the lane, and ſeeing ſome
+<pb facs="tcp:32013:4"/>
+               <!-- PDF PAGE 70 -->Force ſtand there, he rode back again: I ſeeing, having the command of thoſe that ſtood vvith me, I took Souldier vvith me and rode after him, and vvhen vve had gai<g ref="char:EOLhyphen"/>ned him vve told him that he vvas going to Cambridge to tell the Roundheads that we vvere there: and telling him that he vvas an old uſuring Roundhead, and one that had lent the Parliament money, and being urged upon it, ſwore that he never lent them any, nor payd the taxations, but vvhat they ſtrai<g ref="char:EOLhyphen"/>ned and took by force; telling us that for the King he would do any thing: He was high Conſtable of the place 5. year, and gathered the Ship-money, and put ſome men in pri<g ref="char:EOLhyphen"/>ſon for non-payment of the Money, and told us that he had perſwaded as many as he could not to take the Oath nor Proteſtation, and giving us notice of all the parts and par<g ref="char:EOLhyphen"/>ties of the Countrey, and how every perſon of quality ſtood affected, and by that means we got more horſe, and are promiſed more
+<pb facs="tcp:32013:5"/>
+               <!-- PDF PAGE 71 -->for the King; but when they are ready we ſhall turn Cavaliers again to fetch them: the mans name is <hi>Edward Coſens,</hi> and he liveth at a place called Rocxſon; And the Captains names are, Cap. <hi>Taylor,</hi> Cap. <hi>Lawrence,</hi> Cap. Langrige, and ſo marcht to Huntington, ſen<g ref="char:EOLhyphen"/>ding Captain Taylors Quarter-maſter to quarter 500. of the Kings Forces, ſaying, Collonel Hurrey and his company was to quarter there that night, and Sir Lues Dyves and others, who when they heard that the Kings forces was coming there, they rang the Bels for joy, and ſo we did know our friends from our foes, and ſtill raiſed our force of horſe, ſo that we had a conſiderable number which did help us to make up our Dragoneers. And ſo in haſte I reſt,</p>
+            <closer>
+               <signed>Yours.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:32013:5"/>
+            <!-- PDF PAGE 71 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Intend the next weeke (God willing) to give you a larger relation of the proceedings neere our Quarters, in the meane time be ſatisfied with theſe lines enſuing: On Friday laſt being the 27. of this month, we marched from Hull, having continued there in Garriſon for the ſpace of fourteene dayes; and on the ele<g ref="char:EOLhyphen"/>veth day of this month Captaine <hi>Rainesborough,</hi> who is Cap<g ref="char:EOLhyphen"/>taine of the good Ship called the Lion, for the King and Par<g ref="char:EOLhyphen"/>liament, comming to relieve the towne of Yarmonth with the number of two hundred of his ſhipt Souldiers, together with three hundred ſouldiers under the command of Captain <hi>Wels,</hi> as alſo with the Towneſmen themſelves iſſuing forth of the Towne, ſet upon the Earle of Newcaſtles forces and gave them battell, the Sea-men went on with ſuch a courage and ſo hot, that they beate the Earles forces from their great Guns, and tooke from them nine or ten great Pieces of Ord<g ref="char:EOLhyphen"/>nance, one whereof was one of the two great Guns that the Queen ſent them, which ſhe had from the King of Denmark, calling them by the name of her pocket Piſtols, but I hope ſhe ſhall never have them againe to ſhoote fiery bullets into the Towne, for they did ſhoote into the Towne out of them pocket Piſtols Granadoes and bals of thirty and ſix pound weight, one of them ſhot into a houſe where a woman lay in Child-bed, and burnt the bed and the woman was in it, but ſuch was Gods mercy and goodneſſe that the woman recei<g ref="char:EOLhyphen"/>ved no hurt at all, and although they ſhot both day and night continually for the ſpace of ſixe or ſeven weekes together, they killed onely two, a man and a woman, all the time of their ſiege againſt the Towne, but on the eleventh day when we
+<pb facs="tcp:32013:6"/>
+               <!-- PDF PAGE 72 -->gave them the onſet and overthrow, we loſt ten me<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and twelve hurt, and ten taken priſoners, one was that valia<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and worthy Commander Captaine <hi>Ramesborow,</hi> wee tooke that day of the Kings forces at leaſt ſix or ſeven ſcore priſoners, but how many of them were killed is not certainly knowne, for as they were killed, they ſtript them and threw them into ditches, ſo that wee cannot heare of above three or foure ſcore that were killed, but I beleeve they loſt more: They demand for the ranſome of Captaine <hi>Ranisborow</hi> foure of his beſt Guns in his ſhip, but it will not be granted them; my Lord <hi>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irefax</hi> doth offer them two Knights, or any of their Captaines that we have taken of theirs for him, but as yet it will not be taken for him: They are all quite runne away to Yorke, and have carried Captaine <hi>Rainsborow</hi> Priſoner with them, but I doubt not but that they will bee glad to releaſe him againe. Thus in haſt I reſt,</p>
+            <closer>
+               <dateline>Yarmouth, <date>October 24. 1643.</date>
+               </dateline>
+               <signed>Yours <hi>T.V.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32013:6"/>
+            <!-- PDF PAGE 72 -->
+         </div>
+      </body>
+   </text>
+</TEI>
